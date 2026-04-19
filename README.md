@@ -80,4 +80,4 @@ dotnet run --project LojaTintas.API
 
 ## Diagrama MER
 
-Disponível em `/docs/mer.png`.
+![Diagrama MER](docs/mer.png)
